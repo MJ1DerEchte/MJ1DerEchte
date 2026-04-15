@@ -1,24 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=180&section=header&animation=twinkling&text=&desc=" width="100%"/>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=C%23+%26+SQL+Developer+%F0%9F%92%BB;Anime+Enjoyer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&animation=fadeIn&text=MJ1DerEchte&fontSize=60&fontColor=ffffff" width="100%"/>
 
 </div>
-
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding anime gif"/>
-
-### 👾 About Me
-
-- 💻 Ich beherrsche **C#** und **SQL**
-- 🎯 Leidenschaft fürs Coden & Anime schauen
-- 🚀 Immer auf der Suche nach neuen Projekten
-- ⚡ Fun fact: Bug fixen fühlt sich an wie einen Boss zu besiegen
-
-<br clear="right"/>
 
 ---
 
@@ -57,12 +41,7 @@
 
 <div align="center">
 
-### 🎌 Currently Watching
+### 🔥 KI 🔥
 
-![Anime](https://img.shields.io/badge/Anime-%F0%9F%8E%8C_Currently_Watching-blueviolet?style=for-the-badge)
-
-*„Der Weg ist das Ziel — auch im Code."* ✨
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://media.giphy.com/media/V1Ex1Pv5VM8z7qL51z/giphy.gif" width="280"/>
+<img src="https://media.
