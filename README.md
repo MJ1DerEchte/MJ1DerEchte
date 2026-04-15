@@ -37,7 +37,7 @@
 
 <div align="center">
 
-### 🔥 Chainsaw Man
+### 🔥 
 
 <img src="https://media.giphy.com/media/V1Ex1Pv5VM8z7qL51z/giphy.gif" width="260"/>
 <img src="https://media.giphy.com/media/ppsHFdRAAlG8UapZXc/giphy.gif" width="260"/>
