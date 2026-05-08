@@ -37,7 +37,7 @@
 <div align="center">
 
 ### 🔥 
-https://mj1derechte.github.io/
+https://Mj1.io/
 <img src="https://media.giphy.com/media/V1Ex1Pv5VM8z7qL51z/giphy.gif" width="260"/>
 <img src="https://media.giphy.com/media/PGy6B6TqbBKQHmPxKm/giphy.gif" width="260"/>
 
