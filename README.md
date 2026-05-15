@@ -36,12 +36,10 @@ Neu dabei: **🟪 Blazor Web App** als Skill.
 <br/><br/>
 
 <a href="https://mj1.io">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=120&section=header&text=🌐%20mj1.io&fontSize=42&fontColor=ffffff&animation=twinkling" width="85%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=120&section=header&text=%20mj1.io&fontSize=42&fontColor=ffffff&animation=twinkling" width="85%"/>
 </a>
 
 <br/>
-
-**Meine Website soll im Mittelpunkt stehen — dort gibt's mehr von meinen Projekten, Ideen und Stuff.**
 
 </div>
 
