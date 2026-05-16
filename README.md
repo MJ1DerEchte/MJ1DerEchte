@@ -7,7 +7,7 @@
 <a href="https://mj1.io"><img src="https://img.shields.io/badge/Website-mj1.io-6e40c9?style=for-the-badge" /></a>
 <a href="https://github.com/MJ1DerEchte"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-**paru paru paru**
+![paru](https://raw.githubusercontent.com/MJ1DerEchte/MJ1DerEchte/main/assets/paru.gif)
 
 </div>
 
@@ -21,7 +21,7 @@ Ich entwickle am liebsten mit **C#**, **.NET** und modernen Web-Technologien.
 Aktuell liegt mein Fokus auf **Web-Apps**, **cleanem UI/UX** und performanten Projekten.
 Neu dabei: **Blazor Web App** als Skill.
 
-**paru paru**
+![paru](https://raw.githubusercontent.com/MJ1DerEchte/MJ1DerEchte/main/assets/paru.gif)
 
 </div>
 
@@ -74,7 +74,7 @@ Blazor Web Apps
 Tools & kleine Automationen  
 Interfaces mit mehr Persönlichkeit
 
-**paru paru paru paru**
+![paru](https://raw.githubusercontent.com/MJ1DerEchte/MJ1DerEchte/main/assets/paru.gif)
 
 </div>
 
@@ -98,6 +98,6 @@ Interfaces mit mehr Persönlichkeit
 
 *„ich glaube tung tung sahur ist real." ~ PB1*
 
-**paru paru paru**
+![paru](https://raw.githubusercontent.com/MJ1DerEchte/MJ1DerEchte/main/assets/paru.gif)
 
 </div>
